@@ -1,5 +1,8 @@
 # merges-and-conflicts
 
+REMOTE
+
+
 Ecriture de quelques lignes de texte dans le fichier README.md à partir de l'interface GITHUB. Le but de l'exercice est de s'initier aux fusions et conflits en suivant la procédure suivante :
 
 1. saisie sur GITUHUB : écrire REMOTE dans README.md et faire un commit pour ce changement ;
